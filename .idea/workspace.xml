@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2547793-24ea-4a78-a223-00e5bdc71e3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/.idea/go-fiber-gorm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/config/index.config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/database/database.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/database/migration/migration.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/handler/auth.handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/handler/user.handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/middleware/middleware.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/model/entity/user.entity.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/model/request/auth.request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/model/request/user.request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/model/response/user.response.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/public/asset/image1.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/route/index.route.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/utils/jwt.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../go-fiber-gorm/utils/password.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/.idea/ecommerce_fiber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/controllers/cart.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/controllers/controllers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/database/cart.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/database/databaseSetup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/models/models.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../golang API/ecommerce_fiber/tokens/token.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curriculum Vitae Etwan-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Curriculum Vitae Etwann.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/GitHub/mini-project-sanbarcode" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/goalng/golang-fundamental/.idea/golang-fundamental.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/goalng/golang-fundamental/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Documents/goalng/golang-fundamental/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SEPSIS TUGAS dr. Ade winata, Sp An copy.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Surat Lamaran Etwan CV.ANUGERAH BUANA MAKMUR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Surat Lamaran Etwann.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../berkas ETWAN EKO SYAHPUTRA.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../berkas ETWAN EKO SYAHPUTRA/Curriculum Vitae Etwan-1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../berkas ETWAN EKO SYAHPUTRA/SERTIFIKAT-VAKSIN-DOSIS 2-ETWAN-246.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../berkas ETWAN EKO SYAHPUTRA/Surat Lamaran Etwan PT. Modern Plasindo Mutiara(2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../berkas_ETWAN_EKO_SYAHPUTRA.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../berkas_ETWAN_EKO_SYAHPUTRA/Curriculum Vitae Etwan MAP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../berkas_ETWAN_EKO_SYAHPUTRA/Surat Lamaran Etwan MAP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../goalng/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../goalng/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../goalng/basic-go-modules/calculator/calculator.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../goalng/basic-go-modules/calculator/calculator.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../goalng/basic-go-modules/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../goalng/basic-go-modules/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../goalng/basic-go-modules/persegi/persegi.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../goalng/basic-go-modules/persegi/persegi.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../goalng/goroutine/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../goalng/goroutine/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../goalng/submission-project-enigma-laundry" beforeDir="false" afterPath="$PROJECT_DIR$/../../goalng/submission-project-enigma-laundry" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang API/friend-app/controller/auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../golang API/friend-app/controller/auth.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang API/friend-app/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../golang API/friend-app/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang API/go-fiber-gorm/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../../golang API/go-fiber-gorm/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang API/go-fiber-gorm/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../../golang API/go-fiber-gorm/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang API/simple_api/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../../golang API/simple_api/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang API/simple_api/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../golang API/simple_api/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../golang API/submission-project-enigma-laundry/submission-project-enigma-laundry" beforeDir="false" afterPath="$PROJECT_DIR$/../../golang API/submission-project-enigma-laundry/submission-project-enigma-laundry" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../belajar-golang-standard-library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../belajar-golang-standard-library/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../belajar-golang-standard-library/duration.go" beforeDir="false" afterPath="$PROJECT_DIR$/../belajar-golang-standard-library/duration.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../belajar-golang-standard-library/reflect.go" beforeDir="false" afterPath="$PROJECT_DIR$/../belajar-golang-standard-library/reflect.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../belajar-golang-standard-library/sort.go" beforeDir="false" afterPath="$PROJECT_DIR$/../belajar-golang-standard-library/sort.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../belajar-golang-standard-library/time.go" beforeDir="false" afterPath="$PROJECT_DIR$/../belajar-golang-standard-library/time.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/handler/user.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/handler/user.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/helper/helper.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/helper/helper.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/user/entity.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/user/entity.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/user/formatter.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/user/formatter.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/user/input.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/user/input.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/user/repository.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/user/repository.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bwastartup/user/service.go" beforeDir="false" afterPath="$PROJECT_DIR$/../bwastartup/user/service.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/go/pkg/mod/golang.org/toolchain@v0.0.1-go1.22.1.windows-amd64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2jyDBWLNkshEJ2ihuuBMUN0046l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultGoTemplateProperty": "Go Application",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "last_opened_file_path": "C:/Users/YUDA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-2946fb9b3188-155fe4b6e3a0-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-233.15026.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
