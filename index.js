@@ -9,3 +9,6 @@ function fibonacciIterative(n) {
 }
 
 console.log(fibonacciIterative(10));
+console.log(fibonacciIterative(12));
+console.log(fibonacciIterative(14));
+console.log(fibonacciIterative(16));
